@@ -20,7 +20,7 @@ Compile the assets and run development server by
     <code>npm run dev</code>
 </pre>
 
-Isnitiate your server on a new terminal
+Initiate your server on a new terminal
 
 <pre>
     <code>php artisan serve</code>
